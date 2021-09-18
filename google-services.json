@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1015408759120",
+    "project_id": "styleguidehtn",
+    "storage_bucket": "styleguidehtn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015408759120:android:d6b7d8ea3b7012d6cc5c55",
+        "android_client_info": {
+          "package_name": "com.htn2021.styleguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015408759120-l42l69o3s6qu6clasoirdb85uugfsi51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB83hN2jwbzbbWzCS7CJ2SiK1PZU0uJR6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015408759120-l42l69o3s6qu6clasoirdb85uugfsi51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
